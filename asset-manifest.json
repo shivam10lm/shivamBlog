@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/shivamBlog/static/css/main.619cf741.chunk.css",
+    "main.js": "/shivamBlog/static/js/main.0be55046.chunk.js",
+    "main.js.map": "/shivamBlog/static/js/main.0be55046.chunk.js.map",
+    "runtime-main.js": "/shivamBlog/static/js/runtime-main.f90bd6a2.js",
+    "runtime-main.js.map": "/shivamBlog/static/js/runtime-main.f90bd6a2.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/shivamBlog/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.81fe23ad.chunk.js": "/shivamBlog/static/js/2.81fe23ad.chunk.js",
+    "static/js/2.81fe23ad.chunk.js.map": "/shivamBlog/static/js/2.81fe23ad.chunk.js.map",
+    "index.html": "/shivamBlog/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/shivamBlog/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.619cf741.chunk.css.map": "/shivamBlog/static/css/main.619cf741.chunk.css.map",
+    "static/js/2.81fe23ad.chunk.js.LICENSE.txt": "/shivamBlog/static/js/2.81fe23ad.chunk.js.LICENSE.txt",
+    "static/media/App.ef7f1d25.png": "/shivamBlog/static/media/App.ef7f1d25.png",
+    "static/media/Digital.d9c1ce8c.jpg": "/shivamBlog/static/media/Digital.d9c1ce8c.jpg",
+    "static/media/MySql.bd75844a.png": "/shivamBlog/static/media/MySql.bd75844a.png",
+    "static/media/SEO.afeee320.png": "/shivamBlog/static/media/SEO.afeee320.png",
+    "static/media/Software.6e4c858e.png": "/shivamBlog/static/media/Software.6e4c858e.png",
+    "static/media/Web.e22fc2f1.png": "/shivamBlog/static/media/Web.e22fc2f1.png",
+    "static/media/about.6d6e81d6.jpg": "/shivamBlog/static/media/about.6d6e81d6.jpg",
+    "static/media/img.656e4293.jpg": "/shivamBlog/static/media/img.656e4293.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f90bd6a2.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.81fe23ad.chunk.js",
+    "static/css/main.619cf741.chunk.css",
+    "static/js/main.0be55046.chunk.js"
+  ]
+}
